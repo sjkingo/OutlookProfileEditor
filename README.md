@@ -9,3 +9,5 @@ No external dependencies are required, simply download, extract and run.
 ## Latest version
 
 The [latest version available for download is 1.0](https://github.com/sjkingo/OutlookProfileEditor/releases/download/1.0/OutlookProfileEditor-1.0.zip) and is available as a zip file.
+
+It has been built for Outlook 2013 (15.0).
